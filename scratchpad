@@ -1,0 +1,13 @@
+date
+
+2017-10-18
+
+Property-based testing: it generates a bunch of test cases based on the inputs on your functions. Instead of an example
+or two, probably find lots of gross bugs with this. Way easier than doing a table-driven tests, at least more compact.
+
+Every bug in production passed all the tests, typechecks, and linters. The simpler a program is the less painful
+debugging will be.
+
+Mutable variables conflate value and time.
+
+vim: tw=120 spell spelllang=en_us
